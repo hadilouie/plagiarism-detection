@@ -16,12 +16,11 @@ import acm.program.ConsoleProgram;
  * A simple implementation of Longest Common Subsequence algorithm. All nine c++
  * files compare with each other This class use LongestCommonSubsequence class
  * 
- * @see http://www.VariationenZumThema.de/
  * @author your M.H.Aghalouyaghmiyouni
  */
 public class T4_LongestCommonSubsequence extends ConsoleProgram {
 	// Main path is a constant
-	private final String MAIN_PATH = "F:/Master_Germany/Hochschule_Hof/Semesters/Winter_2020/AdvancedProgrammin_Lano/Exam/";
+	private final String MAIN_PATH = "F:/docs/";
 
 	public void run() {
 

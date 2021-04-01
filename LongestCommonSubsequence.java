@@ -4,10 +4,6 @@
  * Agrar: Longest Common Subsequence algorithm
  * 
  * 
- *Reference for this code: 
- *https://www.geeksforgeeks.org/java-program-for-longest-common-subsequence/
- * 
- * @see http://www.VariationenZumThema.de/
  * @author your M.H.Aghalouyaghmiyouni
  */
 public class LongestCommonSubsequence {
